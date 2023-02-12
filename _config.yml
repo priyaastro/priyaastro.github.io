@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Priyanka Chakraborty
+#subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: priyanka.chakraborty@cfa.harvard.edu
 name: Ben Centra
 description: >
