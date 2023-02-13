@@ -31,11 +31,12 @@ Center for Astrophysics | Harvard & Smithsonian**,
 
 - B.Sc. in Physics 2011 – 2014    
 
-<h2>RESEARCH INTERESTS:</h2>  
+<h2>RESEARCH INTERESTS and projects:</h2>  
 
-■ X-ray and High-Energy Astrophysics    
-■ Atomic physics    
-■ High-resolution Spectroscopy    
+■ High-resolution X-ray Spectroscopy   
+■ Atomic physics 
+■ The AtomDB Project
+■ The CLOUDY Project   
 ■ Physics of X-ray binaries    
 ■ Galaxy Clusters      
 
