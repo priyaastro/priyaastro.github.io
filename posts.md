@@ -5,10 +5,8 @@ permalink: /posts/
 main_nav: true
 ---
 
-***Priyanka Chakraborty***  
 
-
-**CURRENT Position - 
+**CURRENT Position  
 Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,  
 60 Garden St, Cambridge, MA 2021 – Present   
 
