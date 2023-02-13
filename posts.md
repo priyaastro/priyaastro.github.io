@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 
-**CURRENT POSITION 
+**CURRENT POSITION  
 Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,  
 60 Garden St, Cambridge, MA 2021 – Present   
 
