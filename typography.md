@@ -5,9 +5,7 @@ permalink: /typography/
 main_nav: true
 ---
 
-Publication List Priyanka Chakraborty
-
-Selected Publications:
+<h2>Selected Publications:</h2>
 
 - P. Chakraborty , G. Ferland, M. Chatzikos, A. C. Fabian, S. Bianchi, F. Guzm´an, and Y. Su, “X-ray spectroscopy in the microcalorimeter era 4: Optical depth effects on the soft X-rays studied with CLOUDY,” [The Astrophysical Journal, Volume 935, number 2, eid. 70, ](https://ui.adsabs.harvard.edu/abs/2022ApJ...935...70C/abstract)Aug 2022.
 - P. Chakraborty , G. Ferland, M. Chatzikos, F. Guzman, and Y. Su, “ X-ray spec- troscopy in the microcalorimeter era III: line formation under Case A, Case B, Case C, and Case D in H- and He-like iron for a photoionized cloud,” [The Astrophysical Journal, Volume 912, Issue 1, id. 26, 12 pp,, ](https://ui.adsabs.harvard.edu/abs/2021arXiv210305807C/abstract)May 2021
