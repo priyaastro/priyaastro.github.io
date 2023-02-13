@@ -7,9 +7,9 @@ main_nav: true
 
 **Priyanka Chakraborty**
 
-Email: priyanka.chakraborty@cfa.harvard.edu
 
-**CURRENT Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,
+**CURRENT Position - 
+Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,
 
 **POSITION:** 60 Garden St, Cambridge, MA 2021 – Present **EDUCATION: University of Kentucky**, Lexington, Kentucky, USA
 
