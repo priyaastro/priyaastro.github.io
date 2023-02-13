@@ -36,16 +36,15 @@ Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,
 ■ Galaxy Clusters    
 
 **OBSERVATION GRANTS**  
-■ 2022, NASA, *XRISM* **guest scientist for the X-ray binary PROPOSALS & GX 340+0**,“*ORIGIN OF BROAD Fe K*α *LINES in GX 340+0”*, **150 ksec, $120,000 OBSERVING TIME:**  
+■ 2022, NASA, *XRISM* **guest scientist for the X-ray binary PROPOSALS & GX 340+0**,“*ORIGIN OF BROAD Fe K*α *LINES in GX 340+0”*, **150 ksec, $120,000**  
 
 ■ **Principal Investigator - 2022**, NASA, *Chandra* Cycle 24, GO, [“*ORIGIN OF IRON LINES AND JET DETECTION IN SWIFT J2037.2+4151”*](https://ui.adsabs.harvard.edu/abs/2022cxo..prop.6293C/abstract), **100 ksec, $68,750**  
 
 ■ **Principal Investigator - 2022**, NASA, *Chandra* Cycle 24, GO, [“*LOCALIZING AND CLASSIFYING UNIDENTIFIED HIGH-ENERGY X-RAY SOURCES DISCOVERED BY INTEGRAL”*](https://ui.adsabs.harvard.edu/abs/2022cxo..prop.6344C/abstract), **45 ksec, $62,440**  
 
-**PRESS RELEASE: NASA’s Chandra Finds Galaxy Cluster Collision on a “WHIM”**
-
+**PRESS RELEASE:  
+NASA’s Chandra Finds Galaxy Cluster Collision on a “WHIM”**
 [www.nasa.gov](https://www.nasa.gov/mission_pages/chandra/news/nasas-chandra-finds-galaxy-cluster-collision-on-a-whim.html)
-
 [chandra.harvard.edu](https://chandra.harvard.edu/photo/2022/a98/)
 
 **SKILLS:   
