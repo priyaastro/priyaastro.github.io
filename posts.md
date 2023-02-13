@@ -5,7 +5,7 @@ permalink: /posts/
 main_nav: true
 ---
 
-**Priyanka Chakraborty**
+***Priyanka Chakraborty***  
 
 
 **CURRENT Position - 
@@ -37,7 +37,7 @@ Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,
 ■ Physics of X-ray binaries  
 ■ Galaxy Clusters    
 
-**Observation Grants**  
+**OBSERVATION GRANTS**  
 ■ 2022, NASA, *XRISM* **guest scientist for the X-ray binary PROPOSALS & GX 340+0**,“*ORIGIN OF BROAD Fe K*α *LINES in GX 340+0”*, **150 ksec, $120,000 OBSERVING TIME:**  
 
 ■ **Principal Investigator - 2022**, NASA, *Chandra* Cycle 24, GO, [“*ORIGIN OF IRON LINES AND JET DETECTION IN SWIFT J2037.2+4151”*](https://ui.adsabs.harvard.edu/abs/2022cxo..prop.6293C/abstract), **100 ksec, $68,750**  
@@ -50,7 +50,8 @@ Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian**,
 
 [chandra.harvard.edu](https://chandra.harvard.edu/photo/2022/a98/)
 
-**SKILLS: Software development:**
+**SKILLS:   
+Software development:**
 
 - Developer of AtomDB, Dec 2021 – Current
 - Developer of CLOUDY, Jun 2019 – Nov 2021
