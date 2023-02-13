@@ -5,152 +5,18 @@ permalink: /typography/
 main_nav: true
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+Publication List Priyanka Chakraborty
 
-<hr>
+Selected Publications:
 
-<h1 id="headings">Headings</h1>
+- P. Chakraborty , G. Ferland, M. Chatzikos, A. C. Fabian, S. Bianchi, F. Guzm´an, and Y. Su, “X-ray spectroscopy in the microcalorimeter era 4: Optical depth effects on the soft X-rays studied with CLOUDY,” [The Astrophysical Journal, Volume 935, number 2, eid. 70, ](https://ui.adsabs.harvard.edu/abs/2022ApJ...935...70C/abstract)Aug 2022.
+- P. Chakraborty , G. Ferland, M. Chatzikos, F. Guzman, and Y. Su, “ X-ray spec- troscopy in the microcalorimeter era III: line formation under Case A, Case B, Case C, and Case D in H- and He-like iron for a photoionized cloud,” [The Astrophysical Journal, Volume 912, Issue 1, id. 26, 12 pp,, ](https://ui.adsabs.harvard.edu/abs/2021arXiv210305807C/abstract)May 2021
+- P. Chakraborty , G. Ferland, S. Bianchi, and M. Chatzikos, “ Cloudy in the Mi- crocalorimeter Era: Improved Energies for Kα Transitions,” R[esearch Notes of the AAS, Volume 4, Issue 10, id. 184, 0 pp,, ](https://ui.adsabs.harvard.edu/abs/2020RNAAS...4..184C/abstract)Oct 2020.
+- P. Chakraborty , G. Ferland, M. Chatzikos, F. Guzman, and Y. Su, “ X-Ray Spec- troscopy in the Microcalorimeter Era. II. A New Diagnostic on Column Density from the Case A to B Transition in H- and He-like Iron,” [The Astrophysical Journal, Volume 901, Issue 1, id. 69, 12 pp, ](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...69C/abstract)Sep, 2020.
+- P. Chakraborty , G. Ferland, M. Chatzikos, F. Guzman, and Y. Su, “ X-Ray Spec- troscopy in the Microcalorimeter Era. I. Effects of Fe XXIV Resonant Auger Destruc- tion on Fe XXV Kα Spectra,” [The Astrophysical Journal, Volume 901, Issue 1, id. 68, 10 pp, ](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...68C/abstract)Sep 2020.
+- P. Chakraborty , S. Chatterjee, A. Dutta, and A. Myers, “ Mean Occupation Func- tion of High-redshift Quasars from the Planck Cluster Catalog,” [Publications of the Astronomical Society of the Pacific, Volume 130, Issue 988, pp. 064001 (2018), Jun ](https://ui.adsabs.harvard.edu/abs/2018PASP..130f4001C/abstract)2018.
+- A. Sarkar, S. Randall, Y. Su, G. E. Alvarez, C. Jones, W. Forman, C. Sarazin, E. Blanton, F. Andrade-Santos, E. Bulbul, R. E. Johnson, P. Nulsen, P. Chakraborty “Discovery of a pre-merger shock in an intercluster filament in Abell 98,” [The Astro- physical Journal Letters, Volume 935, pages L23, Aug](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..23S/abstract) 2022.
+- A. Sarkar, S. Randall, Y. Su, G. E. Alvarez, C. L. Sarazin, C. Jones, E. Blanton, P. Nulsen, P. Chakraborty, E. Bulbul, J. Zuhone, F. Andrade-Santos, R. E. Johnson, “Gas sloshing and cold fronts in pre-merging galaxy cluster Abell 98,” in[ press, ](https://ui.adsabs.harvard.edu/abs/2022arXiv221100130S/abstract)The Astrophysical Journal.
+- R. Kraft, M. Markevitch, E. Churazov, ..., P. Chakraborty , ..,“Line Emission Mapper (LEM): Probing the physics of cosmic ecosystems,” [White paper, No](https://ui.adsabs.harvard.edu/abs/2022arXiv221109827K/abstract)v 2022.
 
-<h1>h1. Heading</h1>
-<h2>h2. Heading</h2>
-<h3>h3. Heading</h3>
-<h4>h4. Heading</h4>
-<h5>h5. Heading</h5>
-<h6>h6. Heading</h6>
-
-<hr>
-
-<h1 id="paragraph">Paragraph</h1>
-
-<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<hr>
-
-<h1 id="list_types">List Types</h1>
-
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
-
-<h3>Definition List</h3>
-<dl>
-  <dt>Definition List Title</dt>
-  <dd>This is a definition list division.</dd>
-</dl>
-
-<h3>Ordered List</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List</h3>
-<ul>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
-
-<h3>Ordered List with <code>.default</code> class</h3>
-<ol class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List with <code>.default</code> class</h3>
-<ul class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
-
-<hr>
-
-<h1 id="form_elements">Fieldsets and Form Elements</h1>
-
-<fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
-
-  <form>
-    <h2>Form Element</h2>
-
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">Text Area:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="select_element">Select Element:</label>
-      <select name="select_element">
-        <optgroup label="Option Group 1">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-        <optgroup label="Option Group 2">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-    </select></p>
-
-    <p><label for="radio_buttons">Radio Buttons:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_1" /> Radio 1
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_2" /> Radio 2
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_3" /> Radio 3
-      </label>
-    </p>
-
-    <p><label for="checkboxes">Checkboxes:</label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_1" /> Checkbox 1
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_2" /> Checkbox 2
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Checkbox 3
-      </label>
-    </p>
-
-    <p><label for="password">Password:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
-
-<hr>
-
-<h1 id="tables">Tables</h1>
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-</table>
-</div>
+1
