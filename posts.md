@@ -1,4 +1,11 @@
-﻿**Priyanka Chakraborty**
+---
+layout: page
+title: "CV"
+permalink: /posts/
+main_nav: true
+---
+
+**Priyanka Chakraborty**
 
 Email: priyanka.chakraborty@cfa.harvard.edu
 
