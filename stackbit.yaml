@@ -240,6 +240,15 @@ models:
       - type: image
         name: cover
         label: Cover Image
+  post2:
+    type: page
+    label: Publications
+    folder: _posts
+    fields:
+      - type: string
+        name: layout
+        label: Page Layout
+        required: true
 
 
 
