@@ -1140,12 +1140,12 @@ button {
 		-webkit-transform: scale(1.125);
 		-ms-transform: scale(1.125);
 		transform: scale(1.125);
-		-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
-		-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
-		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
-		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+		-moz-transition: -moz-transform 0.25s ease-in-out, -moz-filter 0.25s ease-in-out;
+		-webkit-transition: -webkit-transform 0.25s ease-in-out, -webkit-filter 0.25s ease-in-out;
+		-ms-transition: -ms-transform 0.25s ease-in-out, -ms-filter 0.25s ease-in-out;
+		transition: transform 0.25s ease-in-out, filter 0.25s ease-in-out;
 		/* We can change the background image here. */
-		background-image: url("../../images/pic2.png");
+		background-image: url("../../images/pic3.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
