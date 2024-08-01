@@ -1129,7 +1129,7 @@ button {
 		background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/planet.png");
 		background-size: auto, 256px 256px;
 		background-position: center, center;
-		background-repeat: no-repeat, repeat;
+		background-repeat: no-repeat, no-repeat;
 		/* This sets the order of rendering. This will sit on top of all elements with z-index < 2 */
 		z-index: 2;
 	}
