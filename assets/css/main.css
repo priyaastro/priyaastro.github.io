@@ -1534,7 +1534,7 @@ button {
 		position: relative;
 		width: 50rem;
 		max-width: 100%;
-		background-image: url("../../images/planet.png");
+		/*background-image: url("../../images/planet.png");*/
 		border-radius: 4px;
 		opacity: 40;
 	}
