@@ -1683,3 +1683,18 @@ blockquote cite {
 blockquote cite:before {
     content: "\2014 \2009";
 }
+
+
+/* font-size */
+
+<style>
+  p {
+    color: white;
+  }
+  .pa1 {
+    font-size: 18px;
+  }
+  .pa2 {
+    font-size: 13px;
+  }
+</style>
