@@ -248,9 +248,17 @@
 								<p class="pa1">1. <a href="https://www.youtube.com/embed/dslhMoI5YwI?start=1413" target="_blank"><font color="#FFEA00">Amateur Telescope Makers of Boston, public lecture, Cambridge, US, January 2024.</font></a>
 								</p>	
 							<center>
-							<iframe height="480" width="640" h
-            						src="https://www.youtube.com/embed/dslhMoI5YwI?start=1413"> 
-      						</iframe> 
+								<iframe id="youtube-video" height="480" width="640" 
+            							src="https://www.youtube.com/embed/dslhMoI5YwI?start=1413" 
+            							allow="autoplay; encrypted-media" allowfullscreen>
+    							</iframe>
+
+    							<script>
+        							window.addEventListener('beforeunload', function () {
+            						var iframe = document.getElementById('youtube-video');
+            						iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+        								});
+    							</script>
       						</center>
       						
       						<br>
