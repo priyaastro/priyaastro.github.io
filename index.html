@@ -262,7 +262,7 @@
     							<script>
         							window.addEventListener('beforeunload', function () {
             						var iframe = document.getElementById('youtube-video');
-            						iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+            						iframe.src = '';  // Clear the src attribute to stop the video
         								});
     							</script>
       						</center>
